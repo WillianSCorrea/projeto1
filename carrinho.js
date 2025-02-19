@@ -1,1 +1,2 @@
-var quant_prod_carr = 10
+
+var quant_prod_carr = 20
